@@ -1,16 +1,15 @@
-# witness_project
+# witness_project submission as at 23-01-2024
 
-A new Flutter project.
+Organisation Management App (OMS App)
 
-## Getting Started
+## Functions in the app
 
-This project is a starting point for a Flutter application.
+- Registration as a member.
+- Login as a member with an existing account.
+- View Member Statement of Contributions.
+- NB: Contributions Only Show if they are aproved by Admin from the Admin Dashboard.
+- View Member Details.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirements
+This project was built using latest dart sdk: 3.2.4
+Before Getting Dependencies you might need to input your current dart sdk in pubspec folder.
